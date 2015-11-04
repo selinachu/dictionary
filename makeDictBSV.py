@@ -21,9 +21,9 @@
 #  semantic type are assigned to all entries in a CSV file
 #
 #  CSV files of these ontologies can be downloaded here:
-#  https://bioportal.bioontology.org/ontologies/BTO
-#  http://bioportal.bioontology.org/ontologies/DOID
-#  https://bioportal.bioontology.org/ontologies/GO
+#  https://bioportal.bioontology.org/ontologies/BTO (BRENDA tissue)
+#  http://bioportal.bioontology.org/ontologies/DOID (human disease)
+#  https://bioportal.bioontology.org/ontologies/GO (Gene)
 
 #  *Downloaded files need to be unzipped first before running this script
 #
